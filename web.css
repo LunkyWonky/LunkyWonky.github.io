@@ -1,10 +1,10 @@
 body {
         background-image: url(background.png);
-        font-family: Arial, sans-serif;
-        margin: 0;
-        padding: 0;
-        background: #f9f9f9;
-        color: #333; }
+         padding: 20px;
+        max-width: 900px;
+        margin: auto;
+        box-shadow: 0 0 10px rgba(0,0,0,0.2);
+        border-radius: 10px; }
 header {
     background-image: url('header-bg.jpg'); /* Replace with your actual image path */
     background-size: cover;
