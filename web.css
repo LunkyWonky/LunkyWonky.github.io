@@ -66,7 +66,7 @@ font-family: verdana;
   color: black;
 }
 
-p.dark{
+body.dark p{
 text-align: right;
 font-family: verdana;
   font-size: 20px;
