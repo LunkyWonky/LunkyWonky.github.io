@@ -1,3 +1,13 @@
+
+body.dark {
+    background-image: url("darkbg.png");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    color: #333;}
 body {
     background-image: url("background.png");
     background-size: cover;
@@ -29,8 +39,7 @@ img.profile {
     align-self: center;
         }
 section {
-    margin-top: 40px;
-        }
+    margin-top: 40px;}
 footer {
     background-color: #eee;
     text-align: center;
@@ -62,4 +71,26 @@ font-family: verdana;
   background: black;
   padding: 20px;
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+
+.darkmode-button {
+  max-width: 900px;
+  margin: 10px auto;
+  text-align: right;
+}
+
+.darkmode-button button {
+  padding: 8px 16px;
+  font-size: 14px;
+  background-color: #1a73e8;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.darkmode-button button:hover {
+  background-color: #155ab6;
 }
