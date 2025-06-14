@@ -86,7 +86,7 @@ font-family: verdana;
   background-color: #1a73e8;
   color: white;
   border: none;
-  border-radius: 6px;
+  border-radius: 50%;
   cursor: pointer;
   transition: background-color 0.3s;
 }
