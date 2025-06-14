@@ -38,10 +38,11 @@ footer {
     font-size: 0.9em;
         }
 .social-links a {
-        margin: 0 10px;
-        font-size: 20px;
-        text-decoration: none;
-        color: #4a90e2;
+    background-color: purple;
+    margin: 0 10px;
+    font-size: 20px;
+    text-decoration: none;
+    color: #4a90e2;
         }
 
 h1{ color: white;
