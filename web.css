@@ -1,4 +1,5 @@
 body {
+        background-image: url(background.png)
         font-family: Arial, sans-serif;
         margin: 0;
         padding: 0;
@@ -36,6 +37,7 @@ footer {
         }
 .social-links a {
         margin: 0 10px;
+        font-size: 20px;
         text-decoration: none;
         color: #4a90e2;
         }
@@ -46,7 +48,7 @@ h1{ color: white;
 }
 
 p{
-    font-family: verdana;
+font-family: verdana;
   font-size: 20px;
   color: black;
 }
@@ -54,7 +56,7 @@ p{
 .pdf-container {
   max-width: 900px;
   margin: auto;
-  background: white;
+  background: black;
   padding: 20px;
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
