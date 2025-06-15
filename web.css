@@ -18,7 +18,7 @@ body {
     padding: 20px;
     color: #333;}
 header {
-    background-image: url('header-bg.jpg'); /* Replace with your actual image path */
+    background-image: url('headerbg.png'); /* Replace with your actual image path */
     background-size: cover;
     background-position: center;
     color: white;
